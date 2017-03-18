@@ -1,1 +1,1 @@
-"# Spoopybot" 
+# Spoopybot
