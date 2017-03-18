@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["rep-nop <repnop@outlook.com>"]
 
 [dependencies]
+serenity = "0.1"
+toml = "0.3.1"
